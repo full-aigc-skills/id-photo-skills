@@ -1,0 +1,14 @@
+{
+  "name": "id-photo-skills",
+  "version": "1.0.0",
+  "description": "证件照 (ID Photo) AIGC skills — smart cutout, background replacement, preset sizes",
+  "author": {
+    "name": "AIGC Skills Community"
+  },
+  "homepage": "https://github.com/full-aigc-skills/id-photo-skills",
+  "repository": "https://github.com/full-aigc-skills/id-photo-skills",
+  "source": "./",
+  "skills": [
+    "./skills/id-photo"
+  ]
+}
