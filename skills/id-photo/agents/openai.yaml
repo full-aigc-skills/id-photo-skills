@@ -1,0 +1,4 @@
+interface:
+  display_name: "证件照生成与换底"
+  short_description: "根据证件规格抠图、裁切和换底，核对尺寸、背景与输出分辨率"
+  default_prompt: "使用 $id-photo 根据证件规格抠图、裁切和换底，核对尺寸、背景与输出分辨率；先核对输入、可用能力和交付要求。"
